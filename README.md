@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **wang.yanxuan2023@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1iX_Qb4-qAZHj11J5DUHR2i0lE5BDZxJR/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Website](https://terencewongcs.github.io/Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
